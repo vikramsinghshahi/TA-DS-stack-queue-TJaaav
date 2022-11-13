@@ -1,6 +1,5 @@
-function add()
-{
-
+function add() {
+  return 'test'
 }
 
 add()
