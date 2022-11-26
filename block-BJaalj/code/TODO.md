@@ -3,7 +3,8 @@
 - Write a function called `linearSearch` which accepts an array and a value. Using the linear search algorithm search for the value. If you find the value return the index of the element otherwise return -1. Olso write teh
 
 ```js
-function linearSearch() {
+function linearSearch(arr, num) {
+  return arr.indexOf(num)
   //  Your code goes here
 }
 
